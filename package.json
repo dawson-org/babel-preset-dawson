@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-dawson",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,7 @@
     "babel-plugin-transform-object-rest-spread": "^6.22.0",
     "babel-preset-env": "^1.1.8"
   },
-  "files": ["index.js"]
+  "files": [
+    "index.js"
+  ]
 }
