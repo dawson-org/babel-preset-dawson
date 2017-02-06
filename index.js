@@ -1,7 +1,7 @@
 const presetEnv = require('babel-preset-env');
 const transformObjectRestSpread = require('babel-plugin-transform-object-rest-spread');
 
-export default {
+module.exports = {
   plugins: [
     transformObjectRestSpread
   ],
