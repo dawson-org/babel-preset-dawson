@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0"
   },
   "repository": "https://github.com/dawson-org/babel-preset-dawson",
   "author": "Simone Lusenti <simone@plasticpanda.com>",
@@ -13,7 +13,5 @@
     "babel-plugin-transform-object-rest-spread": "^6.22.0",
     "babel-preset-env": "^1.1.8"
   },
-  "files": [
-    "index.js"
-  ]
+  "files": ["index.js"]
 }
