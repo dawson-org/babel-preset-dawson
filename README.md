@@ -1,5 +1,7 @@
 # babel-preset-dawson
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dawson-org/babel-preset-dawson.svg)](https://greenkeeper.io/)
+
 [![npm version](https://badge.fury.io/js/babel-preset-dawson.svg)](https://badge.fury.io/js/babel-preset-dawson) 
 [![npm dependencies](https://david-dm.org/dawson-org/babel-preset-dawson.svg?maxAge=3600)](https://david-dm.org/dawson-org/babel-preset-dawson) 
 
