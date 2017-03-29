@@ -6,6 +6,6 @@ module.exports = {
     transformObjectRestSpread
   ],
   presets: [
-    [presetEnv, { targets: { node: 4.3 } }]
+    [presetEnv, { targets: { node: 6.10 } }]
   ]
 };
